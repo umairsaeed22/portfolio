@@ -10,8 +10,7 @@ import { projects } from "@/data";
 import { PinContainer } from "./ui/3d-pin";
 
 const RecentProjects = () => {
-  return null
-/*  return (
+ return (
     <div className="py-20" id="projects">
       <h1 className="heading">
         A small selection of{" "}
@@ -82,7 +81,7 @@ const RecentProjects = () => {
         ))}
       </div>
     </div>
-  );*/
+  );
 };
 
 export default RecentProjects;
